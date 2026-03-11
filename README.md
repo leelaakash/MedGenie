@@ -59,5 +59,9 @@ The website empowers users by providing them with insights and information, enab
  `npm run start` <br>
 
 
+## License
+
+This project is licensed under the MIT License.
+
  
 
