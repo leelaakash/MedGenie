@@ -1,5 +1,11 @@
 # MedGenie
-Introducing a  cutting-edge medical diagnostic website that harnesses the power of technology to revolutionize healthcare. 
+
+MedGenie is an AI-powered medical diagnostic platform that predicts possible diseases based on user medical reports and symptoms.
+
+It combines:
+- **React + Vite frontend**
+- **Node.js + Express backend**
+- **Flask-based ML models** for disease prediction. 
 This innovative platform seamlessly blends a user-friendly React frontend with the robust capabilities  of Flask and Express.js
 on the backend to provide you with accurate disease predictions based on your medical reports.
 
