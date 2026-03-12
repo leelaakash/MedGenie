@@ -11,6 +11,22 @@ on the backend to provide you with accurate disease predictions based on your me
 
 # Unlocking the Potential : Versatile Uses of Our MedGenie
 
+## Tech Stack
+
+Frontend:
+- React
+- Vite
+- TailwindCSS
+
+Backend:
+- Node.js
+- Express.js
+- Flask (ML service)
+
+Machine Learning:
+- TensorFlow / Keras
+- Scikit-learn
+
 ## Medical Symptom Assessment 
 Users can input their symptoms, medical history, and test results, allowing the website to assist in identifying potential diseases or conditions based on the provided information.
 
