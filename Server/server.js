@@ -23,3 +23,5 @@ const port = 3000;
 app.listen(port, () => {
   console.log("listening on port 3000");
 });
+// MedGenie backend server
+// Initializes Express server and API routes for the application
