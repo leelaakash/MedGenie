@@ -77,3 +77,5 @@ function App() {
 }
 
 export default App;
+// MedGenie Main Application
+// Handles routing and page rendering for the healthcare platform
