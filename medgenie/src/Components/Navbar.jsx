@@ -1,3 +1,5 @@
+// Navbar component for MedGenie
+// Provides navigation between major pages of the healthcare platform
 import { Link } from 'react-router-dom';
 import { useNavigate } from "react-router-dom";
 const Navbar = (props) => {
