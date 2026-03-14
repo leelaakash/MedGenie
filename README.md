@@ -69,6 +69,15 @@ Users can store and retrieve their medical reports and diagnosis history, aiding
 ## Empowerment
 The website empowers users by providing them with insights and information, enabling them to take a more active role in their healthcare decisions.
 
+
+## Features
+
+- AI-based disease prediction from medical reports
+- Secure user authentication
+- Storage of medical history
+- Modern responsive frontend using React and TailwindCSS
+- RESTful backend APIs built with Express
+
 # Setup
 
 ## Clone Repository
